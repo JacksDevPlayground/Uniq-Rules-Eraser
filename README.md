@@ -16,4 +16,12 @@ So lets see if this actually updates the readme!
 Lets see if that works?
 
 
+
+
+
+![Testing chart](/.eraser/7a1ed94A0JzbSUvZXacM___5cYZdAYi0Yg0RvKtQuc9ZMNmRx13___---figure---d_jPKnv8pTxE_0G7yh3X_---figure---_lrFwvy8PSK_igiacJcRkw.png "Testing chart")
+
+
+
+
 <!--- Eraser file: https://app.eraser.io/workspace/7a1ed94A0JzbSUvZXacM --->
